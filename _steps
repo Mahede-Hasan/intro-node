@@ -1,0 +1,15 @@
+# how to install Express =
+Steps:
+Create a folder manual or mkdir
+Open command line to that folder
+Npm init
+Npm install express
+Create index.js
+* For Express node server
+Require express
+Create app variable
+Declare port
+Set app.get(‘/)
+Listen to port
+Node index.js
+Check your browser for that port
